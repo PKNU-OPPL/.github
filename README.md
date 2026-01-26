@@ -44,8 +44,7 @@ We utilize various tools for ocean data analysis and modeling.
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED7D31?style=flat-square&logo=mathworks&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white) |
-| **Models** | `ROMS` `WRF` `MOM6` `FVCOM` |
-| **Data Format** | `NetCDF` `HDF5` `GRIB` |
+| **Models** | `MOM6` |
 | **Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![HPC](https://img.shields.io/badge/HPC-Cluster-green?style=flat-square) |
 
 ---
