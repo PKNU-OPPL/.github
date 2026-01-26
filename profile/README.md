@@ -1,5 +1,3 @@
-# .github
-
 <div align="center">
 
   <img src="oppl_logo.png" width="200" height="200" alt="OPPL Logo">
