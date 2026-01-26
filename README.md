@@ -30,10 +30,10 @@
 We explore the dynamics of the ocean using theoretical, observational, and numerical approaches.
 
 * **Ocean Circulation Dynamics:** Understanding the physical mechanisms of ocean currents.
-* **Numerical Modeling:** Regional and coastal ocean modeling (e.g., ROMS, MOM6, HYCOM).
+* **Numerical Modeling:** Regional and coastal ocean modeling (e.g., MOM6, ROMS, HYCOM).
 * **Ocean Prediction System:** Data assimilation and operational forecasting.
 * **Climate Change Impact:** Long-term variability of marine ecosystems and physical properties.
-* **Remote Sensing & AI:** Satellite data analysis and Machine Learning applications in oceanography.
+* **AI:** Machine Learning and Deep Learning applications in oceanography.
 
 ---
 
