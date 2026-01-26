@@ -49,7 +49,7 @@ We utilize various tools for ocean data analysis and modeling.
 
 ---
 
-### 📚 Featured Repositories
+### 📚 Featured Repositories (need to revise)
 
 - **[Ocean-Modeling-Framework](#)**: Core modeling setup and configuration files.
 - **[OPPL-Utils](#)**: Common Python/MATLAB tools for data pre/post-processing.
