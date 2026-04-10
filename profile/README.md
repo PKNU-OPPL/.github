@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/PKNU-OPPL/.github/main/profile/logo_oppl.png" alt="OPPL logo" width="180" />
 
 # Ocean Physics and Prediction Laboratory  
-## 해양물리 및 예측 연구실
+## 해양역학예측 연구실
 
 **OPPL**  
 Pukyong National University · Busan, Republic of Korea  
