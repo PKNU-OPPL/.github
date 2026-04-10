@@ -1,69 +1,108 @@
-<div align="center">
+# Ocean Physics and Prediction Laboratory (OPPL)
 
-  <img src="logo_oppl.png" width="200" height="200" alt="OPPL Logo">
+**Ocean Physics and Prediction Laboratory**  
+Pukyong National University, Busan, South Korea
 
-  # Ocean Physics and Prediction Lab (OPPL)
-
-  **Welcome to the official GitHub organization of OPPL at Pukyong National University (PKNU).**
-  
-  <br>
-
-  <img src="https://img.shields.io/badge/Oceanography-PKNU-005BAC?style=flat-square&logo=lighthouse" alt="Oceanography">
-  <img src="https://img.shields.io/badge/Focus-Ocean_Physics-blue?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Focus-Numerical_Modeling-blue?style=flat-square" alt="Focus">
-  
-  <br>
-  
-  <p>
-    <b>OPPL(해양역학예측연구실)</b>은 해양의 물리적 현상을 규명하고, <br>
-    수치 모델링과 데이터 분석을 통해 미래 해양 환경을 예측하는 연구를 수행합니다.
-  </p>
-
-</div>
+We study ocean dynamics, numerical modeling, data assimilation, and AI-based prediction systems for the ocean and climate.
 
 ---
 
-### 🌊 Research Areas
+## About
 
-We explore the dynamics of the ocean using theoretical, observational, and numerical approaches.
+The Ocean Physics and Prediction Laboratory (OPPL) focuses on understanding and predicting oceanic and climate variability through a combination of physical oceanography, numerical simulations, observational analysis, and machine learning.
 
-* **Ocean Circulation Dynamics:** Understanding the physical mechanisms of ocean currents.
-* **Numerical Modeling:** Regional and coastal ocean modeling (e.g., MOM6, ROMS, HYCOM).
-* **Ocean Prediction System:** Data assimilation and operational forecasting.
-* **Climate Change Impact:** Long-term variability of marine ecosystems and physical properties.
-* **AI:** Machine Learning and Deep Learning applications in oceanography.
+Our research aims to advance scientific understanding of the ocean system and to develop practical methodologies for prediction, reanalysis, and environmental applications.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Research Areas
 
-We utilize various tools for ocean data analysis and modeling.
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED7D31?style=flat-square&logo=mathworks&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white) |
-| **Models** | `MOM6` `MOM5` `WW3` `ESM4.5` `COBALT` `AI` |
-| **Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![HPC](https://img.shields.io/badge/HPC-Cluster-green?style=flat-square) |
-
----
-
-### 📚 Featured Repositories (need to revise)
-
-- **[Ocean-Modeling-Framework](#)**: Core modeling setup and configuration files.
-- **[OPPL-Utils](#)**: Common Python/MATLAB tools for data pre/post-processing.
-- **[Lab-Handbook](#)**: Guides for server access, coding conventions, and onboarding.
+- Physical oceanography
+- Ocean circulation and air–sea interaction
+- Ocean and climate variability
+- Numerical ocean modeling
+- Ocean data assimilation
+- AI and machine learning for ocean prediction
+- Marine environmental change
 
 ---
 
-<div align="center">
+## Featured Repositories
 
-  **📍 Location** <br>
-  Pukyong National University, Busan, South Korea <br>
-  (국립부경대학교, 부산광역시)
+> Representative projects and research resources of the laboratory.
 
-  <br>
+- **`enso-prediction`**  
+  Deep learning workflows for ENSO forecasting and climate prediction experiments
 
-  [🌐 Lab Website](#) | [📧 Contact Us](mailto:your-email@pknu.ac.kr)
+- **`ocean-data-assimilation`**  
+  Research materials, numerical experiments, and codes for ocean data assimilation
 
-</div>
+- **`oppl-utils`**  
+  Shared utilities for preprocessing, analysis, visualization, and experiment management
 
+- **`lab-handbook`**  
+  Internal research guide for environment setup, workflows, and collaboration practices
+
+---
+
+## Research Approach
+
+Our laboratory integrates multiple approaches:
+
+- **Observations** for understanding oceanic processes and variability
+- **Numerical models** for simulating physical mechanisms and testing hypotheses
+- **Data assimilation** for combining models and observations consistently
+- **Artificial intelligence** for improving prediction skill and extracting complex patterns from data
+
+---
+
+## Tools and Methods
+
+**Programming & Computing**  
+Python · MATLAB · Fortran · Linux · HPC
+
+**Modeling & Analysis**  
+Numerical modeling · Data assimilation · Deep learning · Time series analysis · Climate diagnostics
+
+---
+
+## Members
+
+This organization hosts research repositories, codes, and documentation developed by members of OPPL.
+
+- Principal Investigator
+- Graduate Researchers
+- Student Contributors
+
+---
+
+## Collaboration and Usage
+
+This GitHub organization serves as a shared space for:
+
+- research code and experiment tracking
+- reproducible workflows
+- collaborative development
+- documentation and academic project archiving
+
+For research collaboration, code reuse, or academic inquiries, please contact the laboratory through the official channels below.
+
+---
+
+## Links
+
+- **Laboratory / Department Website**: https://pknuocean.pknu.ac.kr/pknuocean/1480
+- **Institution**: Pukyong National University
+- **Location**: Busan, Republic of Korea
+
+---
+
+## Contact
+
+For academic collaboration or questions regarding repositories, please contact the laboratory through the official university or department contact channels.
+
+---
+
+<p align="center">
+  Ocean Physics and Prediction Laboratory (OPPL)
+</p>
