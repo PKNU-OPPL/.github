@@ -19,7 +19,7 @@ Research in physical oceanography, numerical modeling, data assimilation, and AI
 ## Overview | 연구실 소개
 
 The Ocean Physics and Prediction Laboratory (OPPL) studies oceanic and climate variability through the combined use of physical theory, numerical simulation, observational analysis, and machine learning.  
-해양물리 및 예측 연구실(OPPL)은 물리 이론, 수치실험, 관측자료 분석, 그리고 기계학습을 통합하여 해양 및 기후 변동성을 연구합니다.
+해양역학예측 연구실(OPPL)은 물리 이론, 수치실험, 관측자료 분석, 그리고 기계학습을 통합하여 해양 및 기후 변동성을 연구합니다.
 
 Our goal is to advance scientific understanding of ocean processes and to develop robust methodologies for prediction, reanalysis, and environmental applications.  
 우리 연구실은 해양 과정에 대한 과학적 이해를 심화하고, 예측·재분석·환경 응용을 위한 신뢰성 있는 방법론을 개발하는 것을 목표로 합니다.
@@ -43,21 +43,24 @@ Our goal is to advance scientific understanding of ocean processes and to develo
 Representative projects and shared research resources of the laboratory.  
 연구실의 대표 프로젝트와 공용 연구 자원을 소개합니다.
 
-- **`enso-prediction`**  
-  Deep learning workflows for ENSO forecasting and climate prediction experiments  
-  ENSO 예측 및 기후 예측 실험을 위한 딥러닝 워크플로우
+> This section will be updated as repositories are organized and released.  
+> 저장소가 정리되고 공개되는 대로 이 섹션을 업데이트할 예정입니다.
 
-- **`ocean-data-assimilation`**  
-  Codes, notes, and numerical experiments for ocean data assimilation studies  
-  해양 자료동화 연구를 위한 코드, 연구 노트, 수치실험 자료
+- **`[repository-name]`**  
+  [English description]  
+  [국문 설명]
 
-- **`oppl-utils`**  
-  Shared tools for preprocessing, analysis, visualization, and experiment management  
-  전처리, 분석, 시각화, 실험 관리를 위한 공용 도구 모음
+- **`[repository-name]`**  
+  [English description]  
+  [국문 설명]
 
-- **`lab-handbook`**  
-  Documentation for research workflows, computing environments, and collaboration practices  
-  연구 워크플로우, 계산 환경, 협업 방식을 정리한 문서
+- **`[repository-name]`**  
+  [English description]  
+  [국문 설명]
+
+- **`[repository-name]`**  
+  [English description]  
+  [국문 설명]
 
 ---
 
@@ -88,25 +91,6 @@ Python · Fortran · Linux · HPC
 **Modeling & Analysis | 모델링 및 분석 기법**  
 Numerical Modeling · Data Assimilation · Deep Learning · Time Series Analysis · Climate Diagnostics  
 수치모델링 · 자료동화 · 딥러닝 · 시계열 분석 · 기후 진단
-
----
-
-## Organization | GitHub 조직 소개
-
-This GitHub organization serves as a shared space for repositories, reproducible workflows, documentation, and collaborative research development within OPPL.  
-이 GitHub 조직은 OPPL의 저장소, 재현 가능한 연구 워크플로우, 문서화, 그리고 협업 기반 연구개발을 위한 공용 공간입니다.
-
-It is intended to support:  
-다음과 같은 목적을 지원합니다.
-
-- research code and experiment tracking  
-  연구 코드 및 실험 이력 관리
-- project documentation and archiving  
-  프로젝트 문서화 및 아카이빙
-- reusable analysis tools  
-  재사용 가능한 분석 도구 축적
-- collaborative software development  
-  협업 기반 소프트웨어 개발
 
 ---
 
