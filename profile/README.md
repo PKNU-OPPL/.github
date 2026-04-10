@@ -112,12 +112,19 @@ It is intended to support:
 
 ## Members | 구성원
 
-This organization hosts repositories developed and maintained by members of OPPL, including:  
+This organization hosts repositories developed and maintained by members of OPPL.  
 이 조직에는 OPPL 구성원이 개발·관리하는 저장소가 포함되어 있습니다.
 
-- Principal Investigator · 연구책임자
-- Graduate Researchers · 대학원 연구원
-- Student Contributors · 학생 연구 참여자
+- **Principal Investigator | 연구책임자**  
+  Prof. [Name]
+
+- **Doctoral Researchers | 박사과정**
+  - [Name] — [Research topic]
+  - [Name] — [Research topic]
+
+- **Master’s Researchers | 석사과정**
+  - [Name] — [Research topic]
+  - [Name] — [Research topic]
 
 ---
 
