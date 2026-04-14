@@ -78,6 +78,7 @@ This organization hosts repositories developed and maintained by members of OPPL
 
 - **Master’s Researchers | 석사과정**
   - Sanggyu Jeon (전상규) — ENSO prediction
+  - Daon Choi (최다온) — Regional ocean modeling
   - [Name] — [Research topic]
 
 - **Undergraduate Researchers | 학부연구생**
