@@ -80,6 +80,11 @@ This organization hosts repositories developed and maintained by members of OPPL
   - [Name] — [Research topic]
   - [Name] — [Research topic]
 
+- **Undergraduate Researchers | 학부연구생**
+  - [Name] — [Research topic]
+  - [Name] — [Research topic]
+
+
 ---
 
 ## Links & Contact | 관련 링크 및 문의
