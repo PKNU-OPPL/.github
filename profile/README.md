@@ -77,7 +77,7 @@ This organization hosts repositories developed and maintained by members of OPPL
   - [Name] — [Research topic]
 
 - **Master’s Researchers | 석사과정**
-  - [Name] — [Research topic]
+  - [Sanggyu Jeon (전상규)] — [ENSO prediction]
   - [Name] — [Research topic]
 
 - **Undergraduate Researchers | 학부연구생**
