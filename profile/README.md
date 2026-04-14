@@ -29,7 +29,7 @@ Our goal is to advance scientific understanding of ocean processes and to develo
 ## Research Themes | 연구 분야
 
 - **Physical Oceanography** · **물리해양학**
-- **Ocean Circulation and Air–Sea Interaction** · **해양순환 및 해기상호작용**
+- **Ocean Circulation and Air–Sea Interaction** · **해양순환 및 해양-대기상호작용**
 - **Ocean and Climate Variability** · **해양 및 기후 변동성**
 - **Numerical Ocean Modeling** · **해양 수치모델링**
 - **Ocean Data Assimilation** · **해양 자료동화**
