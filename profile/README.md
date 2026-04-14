@@ -46,9 +46,9 @@ Representative projects and shared research resources of the laboratory.
 > This section will be updated as repositories are organized and released.  
 > 저장소가 정리되고 공개되는 대로 이 섹션을 업데이트할 예정입니다.
 
-- **`[repository-name]`**  
-  [English description]  
-  [국문 설명]
+- **`publications`**  
+  Publication catalog and related research outputs from OPPL  
+  OPPL의 논문 목록과 관련 연구 성과를 정리한 저장소
 
 - **`[repository-name]`**  
   [English description]  
