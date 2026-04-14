@@ -73,11 +73,11 @@ This organization hosts repositories developed and maintained by members of OPPL
   Prof. [Name]
 
 - **Doctoral Researchers | 박사과정**
-  - [Name] — [Research topic]
+  - Hyeonmin Lee (이현민) — Ocean/Wave data assimilation
   - [Name] — [Research topic]
 
 - **Master’s Researchers | 석사과정**
-  - [Sanggyu Jeon (전상규)] — [ENSO prediction]
+  - Sanggyu Jeon (전상규) — ENSO prediction
   - [Name] — [Research topic]
 
 - **Undergraduate Researchers | 학부연구생**
