@@ -70,16 +70,19 @@ This organization hosts repositories developed and maintained by members of OPPL
 이 조직에는 OPPL 구성원이 개발하고 관리하는 저장소가 포함되어 있습니다.
 
 - **Principal Investigator | 연구책임자**  
-  Prof. [Name]
-
-- **Doctoral Researchers | 박사과정**
-  - Hyeonmin Lee (이현민) — Ocean/Wave data assimilation
+  Prof. Young Ho Kim (김영호)
+  
+- **Postdoctoral Researchers | 박사후연구원**  
   - [Name] — [Research topic]
+  
+- **Doctoral Researchers | 박사과정**
+  - [Name] — [Research topic]
+  - Hyeonmin Lee (이현민) — ocean and wave data assimilation
 
 - **Master’s Researchers | 석사과정**
-  - Sanggyu Jeon (전상규) — ENSO prediction
-  - Daon Choi (최다온) — Regional ocean modeling
   - [Name] — [Research topic]
+  - Sanggyu Jeon (전상규) — ENSO prediction
+  - Daon Choi (최다온) — regional ocean modeling
 
 - **Undergraduate Researchers | 학부연구생**
   - [Name] — [Research topic]
